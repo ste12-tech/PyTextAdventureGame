@@ -94,4 +94,4 @@ def gnfc(coins):
     coins = gnfc(coins)
     
     
-coins = gnfc(coins)
+# coins = gnfc(coins)
