@@ -74,7 +74,7 @@ def gnfc(coins):
     if v1 == '3':
             num1 = random.randint(1, 10)
             sleep(1)
-            print("You have chosen difficulty 1. You will have to guess the number between 1 and 10 each time you dont get it 1 point gets deducted from 10.")
+            print("You have chosen difficulty 3. You will have to guess the number between 1 and 10 each time you dont get it 1 point gets deducted from 10.")
             guess1 = int(input("try to guess the number between 1 and 10: "))
     #----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
             while guess1 != num1:
